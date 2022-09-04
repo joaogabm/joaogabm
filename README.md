@@ -2,7 +2,7 @@
 
 💻 Em busca de inserção no mercado de T.I
 <br>
-☘️ Estudando HTML, CSS e JavaScript
+☘️ HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/joaogabm">
