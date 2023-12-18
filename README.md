@@ -1,6 +1,6 @@
 ## Olá! Eu sou João Gabriel, desenvolvedor web!
 
-☘️ HTML, CSS, JavaScript e React
+🖥️ HTML, CSS, JavaScript e React
 
 <div align="center">
   <a href="https://github.com/joaogabm">
