@@ -1,8 +1,6 @@
-## Oiii! Eu sou João Gabriel, estudante de desenvolvimento web!
+## Olá! Eu sou João Gabriel, desenvolvedor web!
 
-💻 Em busca de inserção no mercado de T.I
-<br>
-☘️ HTML, CSS e JavaScript
+☘️ HTML, CSS, JavaScript e React
 
 <div align="center">
   <a href="https://github.com/joaogabm">
