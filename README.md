@@ -1,6 +1,6 @@
-## Olá! Eu sou João Gabriel, desenvolvedor full stack!
+## Olá! Eu sou João Gabriel, desenvolvedor web!
 
-🖥️ HTML, CSS, JavaScript, React, C#, Banco de Dados e GIT
+🖥️ HTML, CSS, JavaScript, React, e C#.
 
 <div align="center">
   <a href="https://github.com/joaogabm">
@@ -14,7 +14,6 @@
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JG-React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="JG-CSharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="JG-SQL" height="30" width="80" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E">
 </div>
   
 ##
