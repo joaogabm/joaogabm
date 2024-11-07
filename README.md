@@ -1,6 +1,6 @@
 ## Olá! Eu sou João Gabriel, desenvolvedor Full Stack!
 
-🖥️ Full Stack Developer | JavaScript | React | SQL | C# | Git | Scrum
+🖥️ Full Stack Developer | C# | JavaScript | React | SQL | Git | Scrum
 
 <div align="center">
   <a href="https://github.com/joaogabm">
