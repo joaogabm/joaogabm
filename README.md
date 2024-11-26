@@ -14,6 +14,7 @@
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JG-React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="JG-CSharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="JG-SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-Expert-blue?logo=microsoftsqlserver&logoColor=white">
 </div>
   
 ##
