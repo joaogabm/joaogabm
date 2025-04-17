@@ -1,4 +1,4 @@
-## Olá! Eu sou João Gabriel, desenvolvedor Full Stack!
+## Olá! Eu sou João Gabriel, analista de QA!
 
 🖥️ Software Analist QA | Tester | Quality Assurance | QA Automation | Cypress | Postman
 
